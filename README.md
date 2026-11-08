@@ -1,28 +1,39 @@
 <div align="center">
-  <img src="banner-brasiliense.jpg" alt="Banner do Brasiliense FC" width="100%">
+  <img src="https://github.com/veo14269-jpg/veo14269-jpg/raw/main/banner-brasiliense.jpg" alt="Banner do Brasiliense FC" width="100%">
 </div>
 
-<h1 align="center">I love brasiliense FC</h1>
+<h1 align="center">VEO</h1>
+<h2 align="center">I LOVE BRASILIENSE FC</h2>
 
 <p align="center">
-  Apaixonado por tecnologia, programação e criação de projetos.  
-  Este espaço reúne minhas ideias, meus estudos e tudo que estou construindo.
+  Tecnologia, criatividade, programação e futebol.
+  <br>
+  Bem-vindo ao meu espaço no GitHub!
 </p>
 
 ---
 
-### Sobre mim
+<h2 align="center">ABOUT ME</h2>
+
+<p align="center">
+  Estou aprendendo, explorando novas tecnologias e criando projetos.
+  <br>
+  Aqui compartilho meus estudos, experiências e ideias.
+</p>
+
+<h3 align="center">PROFILE DATA</h3>
 
 ```json
 {
-  "perfil": "I love brasiliense FC",
-  "interesses": [
-    "Tecnologia",
-    "Programação",
-    "Desenvolvimento de projetos",
-    "Futebol"
+  "name": "VEO",
+  "favorite_club": "Brasiliense FC",
+  "interests": [
+    "Programming",
+    "Technology",
+    "Football",
+    "Project Development"
   ],
-  "linguagens_e_formatos": [
+  "languages_and_formats": [
     "JavaScript",
     "HTML",
     "CSS",
@@ -35,7 +46,7 @@
     "Java",
     ".env"
   ],
-  "ferramentas": [
+  "tools": [
     "Git",
     "GitHub",
     "Visual Studio Code",
@@ -45,22 +56,30 @@
 }
 ```
 
-### Tecnologias e ferramentas
+---
+
+<h2 align="center">TECHNOLOGIES & TOOLS</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ts,php,cs,cpp,c,java,git,github,vscode,windows&perline=7&theme=dark" alt="JavaScript, HTML, CSS, TypeScript, PHP, C Sharp, C++, C, Java, Git, GitHub, VS Code e Windows">
+    <img src="https://skillicons.dev/icons?i=js,html,css,ts,php,cs,cpp,c,java,git,github,vscode,windows&perline=7&theme=dark" alt="JavaScript, HTML, CSS, TypeScript/TSX, PHP, C Sharp, C++, C, Java, Git, GitHub, VS Code e Windows 11">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JSON-222222?style=for-the-badge" alt="JSON">
-  <img src="https://img.shields.io/badge/.ENV-6D9C3A?style=for-the-badge&logoColor=white" alt="ENV">
+  <img src="https://img.shields.io/badge/JSON-222222?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
+  <img src="https://img.shields.io/badge/.ENV-323330?style=for-the-badge&logo=dotenv&logoColor=white" alt=".env">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
 </p>
 
 ---
 
 <p align="center">
-  <strong>"Grandes projetos começam com uma ideia e evoluem com dedicação."</strong>
+  <strong>BRASILIENSE FC: paixão que também faz parte de quem eu sou.</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/veo14269-jpg">VEO on GitHub</a>
+  &nbsp;|&nbsp;
+  <a href="https://skillicons.dev/">Skill Icons</a>
 </p>
